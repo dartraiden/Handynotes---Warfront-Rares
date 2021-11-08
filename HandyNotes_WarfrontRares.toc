@@ -1,6 +1,6 @@
-## Interface: 81000
+## Interface: 90105
 ## Title: HandyNotes_WarfrontRares
-## Version: 0.5.0
+## Version: 0.5.5
 ## Notes: Warfront Rares
 ## OptionalDeps: Ace3
 ## RequiredDeps: HandyNotes
