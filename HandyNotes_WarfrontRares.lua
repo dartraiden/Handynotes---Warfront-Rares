@@ -1059,11 +1059,11 @@ end
 
 function Arathi:LoadCheck()
 
-	if (IsAddOnLoaded("TomTom")) then 
+	if (C_AddOns.IsAddOnLoaded("TomTom")) then 
 		isTomTomloaded = true
 	end
 
-	if (IsAddOnLoaded("CanIMogIt")) then 
+	if (C_AddOns.IsAddOnLoaded("CanIMogIt")) then 
 		isCanIMogItloaded = true
 	end
 
